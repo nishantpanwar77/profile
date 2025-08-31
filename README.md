@@ -2,13 +2,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantpanwar77" alt="nishantpanwar77" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, GCP**
+- 🌱 I’m working on **Generative AI, LLMs Trainings**
 
-- 👯 I’m looking to collaborate on **Any project**
+- 👯 I’m open to collaborate on **Any project**
 
 - 👨‍💻 All of my projects are available at [https://nishantpanwar.in/](https://nishantpanwar.in/)
 
-- 💬 Ask me about **Angular, Electron.Js, STM32.**
+- 💬 Ask me about **Angular, LLMs, STM32.**
 
 - 📫 How to reach me **nishantpanwar77@gmail.com**
 
